@@ -1,0 +1,28 @@
+/*------------------------------------------------------------------
+# [Color codes]
+
+# Background and Border:	#a9c83f (iwatch green)
+# Color:	#a9c83f (android blue)
+# */
+
+.watch_index header, .watch_index .navbar-default,.form_send_btn:hover,.comma_icon_blk,.bck_dark_blk,.form_send_btn:focus{
+  background: #a9c83f;
+}
+.btn-default.bck_color_dark ,.get_api{
+  background: #768c2c;
+}
+hr.star-primary,.app_screen_mob_icon,.app_screen_mob_icon:hover,.app_screen_iwatch_icon:hover, .app_screen_iwatch_icon_active{border-color:#a9c83f;}
+.watch_index .iwatch_feature_content .iphone_ban1 h2,.form_send_btn {
+  color: #a9c83f;
+}
+.carousel-indicators .active,.form_send_btn{border:2px solid #a9c83f;}
+.app_store_bck{ background-color: #768c2c;}
+.form_send_btn:hover,.form_send_btn:focus{ border-color: #a9c83f;color:#fff;}
+
+.app_screen_mob_icon{color:#fff;background-color: #a9c83f;}
+.app_screen_mob_icon_nonactive{background-color:transparent;background-image:url('../images/mobile1_hover_green.png');}
+.app_screen_iwatch_icon{background-image:url('../images/watch_green.png');}
+.app_screen_iwatch_icon:hover, .app_screen_iwatch_icon_active{background-image:url('../images/watch_white.png');background-color:#a9c83f;}
+.app_screen_mob_icon:hover{background-image:url('../images/mobile1.png');background-color:#a9c83f;}
+.profile_div img.userImg{border-color:#a9c83f;}
+.user_name{color:#a9c83f;}

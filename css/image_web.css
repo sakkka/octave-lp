@@ -1,0 +1,6 @@
+.app_screen_mob_icon,.app_screen_mob_icon:hover,.app_screen_iwatch_icon:hover, .app_screen_iwatch_icon_active{border-color:#01b9ff;}
+.app_screen_mob_icon{color:#fff;background-color: #01b9ff;}
+.app_screen_mob_icon_nonactive{background-color:transparent;background-image:url('../images/mobile1_hover_blue.png');}
+.app_screen_iwatch_icon{background-image:url('../images/watch_blue.png');}
+.app_screen_iwatch_icon:hover, .app_screen_iwatch_icon_active{background-image:url('../images/watch_white.png');background-color:#01b9ff;}
+.app_screen_mob_icon:hover{background-image:url('../images/mobile1.png');background-color:#01b9ff;}

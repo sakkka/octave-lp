@@ -1,0 +1,25 @@
+/*------------------------------------------------------------------
+# [Color codes]
+
+# Background and Border:	#333436 | #242426 (iwatch Gold)
+# Color:	#333436 (android blue)
+# */
+
+.watch_index header, .watch_index .navbar-default,.form_send_btn:hover,.comma_icon_blk,.bck_dark_blk,.form_send_btn:focus{
+  background: #333436;
+}
+.btn-default.bck_color_dark ,.get_api{
+  background: #242426;
+}
+.btn-default.bck_color_dark:hover, .btn-default.get_api:hover,.btn-default.app_store_bck:hover,.btn-default.bck_color_dark:focus, .btn-default.get_api:focus,.btn-default.app_store_bck:focus,.btn-default.bck_color_dark:active, .btn-default.get_api:active,.btn-default.app_store_bck:active{
+  background-color: transparent;
+  border-color:#fff;
+  color:#fff;
+}
+hr.star-primary{border-color:#333436;}
+.watch_index .iwatch_feature_content .iphone_ban1 h2,.form_send_btn {
+  color: #333436;
+}
+.carousel-indicators .active,.form_send_btn{border:2px solid #333436;}
+.app_store_bck{ background-color: #242426;}
+.form_send_btn:hover,.form_send_btn:focus{ border-color: #333436;color:#fff;}

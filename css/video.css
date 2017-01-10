@@ -1,0 +1,151 @@
+/*------------------------------------------------------------------
+# [Color codes]
+
+# Background and Border:	#807FFF
+# Color:	#ffffff (android blue)
+# */
+
+.watch_index .navbar-default .navbar-nav > .active > a, .watch_index .navbar-default .navbar-nav > .active > a:focus, .watch_index .navbar-default .navbar-nav > .active > a:hover{
+	border-color:linear-gradient(#EB4D5A, #FFC17A);
+}
+.watch_index header, .watch_index .navbar-default {
+    background: rgba(0, 0, 0, 0);
+}
+.btn-default.bck_color_dark {
+        background: -webkit-linear-gradient(#807FFF, #b67bfd); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#807FFF, #b67bfd); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#807FFF, #b67bfd); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#807FFF, #b67bfd); /* Standard syntax */
+}
+.btn-default.bck_color_dark:hover, .iwatch_bck:hover, .btn-default.bck_color_dark:focus, .iwatch_bck:focus, .btn-default.bck_color_dark:active, .iwatch_bck:active {
+    background: none repeat scroll 0 0 #FFF;
+    border-color: #FFF; color: linear-gradient(#807FFF, #b67bfd)
+}
+.get_api,.comma_icon_blk,.form_send_btn:hover,.form_send_btn:focus,.form_send_btn:active{
+	    background: -webkit-linear-gradient(#807FFF, #b67bfd); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#807FFF, #b67bfd); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#807FFF, #b67bfd); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#807FFF, #b67bfd); /* Standard syntax */
+}
+.get_api:hover, .get_api:focus, .get_api:active ,.form_send_btn,.form_send_btn:hover,.form_send_btn:focus,.form_send_btn:active{
+    border-color: linear-gradient(#807FFF, #b67bfd)
+}
+.carousel-indicators .active{
+	border-color:linear-gradient(#807FFF, #b67bfd)
+}
+.horz_line_doulb_color hr.star-primary {
+    
+    border-color: linear-gradient(#EB4D5A, #FFC17A);
+	width: 50px;
+	display:inline-block;
+}
+.watch_index .iwatch_feature_content .iphone_ban1 h2 {
+    color: linear-gradient(#EB4D5A, #FFC17A);
+}
+.span_half_pink{
+	    background: -webkit-linear-gradient(#807FFF, #b67bfd); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#807FFF, #b67bfd); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#807FFF, #b67bfd); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#807FFF, #b67bfd); /* Standard syntax */
+	display: inline-block;
+	height: 2px;
+	position: absolute;
+	width: 25px;
+	top: 25px;
+	right: 0px;
+}
+.app_store_div {
+    clear: both;
+        background: -webkit-linear-gradient(#807FFF, #b67bfd); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#807FFF, #b67bfd); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#807FFF, #b67bfd); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#807FFF, #b67bfd); /* Standard syntax */
+}
+.app_store_bck {
+    background-color: linear-gradient(#EB4D5A, #FFC17A);
+}
+.app_store_bck:hover, .app_store_bck:focus, .app_store_bck:active {
+    background: url("../images/iphone_download_icon.png") no-repeat scroll 30px center transparent;
+     border-color: #fff;
+}
+.form_send_btn{color:linear-gradient(#EB4D5A, #FFC17A);}
+.overlay_divs{
+	position: absolute;
+	z-index: 3;
+	height: 900px; 
+	width: 100%; 
+	top: 0px;
+	left: 0px; 
+	right: 0px; 
+	border: 0px none; 
+	background: rgba(0, 0, 0, 0);
+}
+/****************Css For Video Section****************************/
+.video-section .pattern-overlay {
+background-color: rgba(128, 127, 255, 0.09);
+}
+.section_heading .pattern-overlay2 {
+    background: -webkit-linear-gradient(#807FFF, #b67bfd); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#807FFF, #b67bfd); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#807FFF, #b67bfd); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#807FFF, #b67bfd); /* Standard syntax */
+
+	
+}
+
+.video-section .pattern-overlay3 {
+background-color: rgba(254, 194, 122, 0.59);
+}
+.section_heading .pattern-overlay4 {
+background: #fec27a;
+    background: -webkit-linear-gradient(#ffc07b, #f68a6d); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#ffc07b, #f68a6d); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#ffc07b, #f68a6d); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#ffc07b, #f68a6d); /* Standard syntax */
+}
+
+min-height: 496px; 
+/* Incase of overlay problems just increase the min-height*/
+}
+.video-section h1, .video-section h3{
+text-align:center;
+color:#fff;
+}
+
+.video-section h3{
+font-size: 25px;
+font-weight:lighter;
+margin: 0px auto 15px;
+}
+.video-section .buttonBar{display:none;}
+.player {font-size: 1px;}
+
+.horz_line_doulb_color{
+	position: relative; display: inline-block;
+}
+
+.profile_div img.userImg {
+  border-left-color: linear-gradient(#EB4D5A, #FFC17A);
+  border-right-color: linear-gradient(#807FFF, #b67bfd)
+  border-top-color: linear-gradient(#EB4D5A, #FFC17A);
+  border-bottom-color: linear-gradient(#807FFF, #b67bfd)
+}
+.carousel_slide_image .carousel-indicators {
+  bottom: 10px;
+}
+.carousel_slide_image .carousel-indicators .active {
+  border-color: linear-gradient(#EB4D5A, #FFC17A);
+}
+.carousel_slide_image .carousel-indicators li{ 
+	width:12px;
+	height:12px;
+ }
+.carousel_slide_image .carousel-indicators .active{
+	width:17px;
+	height:17px;
+	margin: -2px 4px;
+	border-width:3px;
+	z-index: -999;
+}
+.profile_div img.userImg{border-color:linear-gradient(#EB4D5A, #FFC17A);}
+.user_name{color:linear-gradient(#EB4D5A, #FFC17A);}

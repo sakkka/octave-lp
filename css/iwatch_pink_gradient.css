@@ -1,0 +1,81 @@
+/*------------------------------------------------------------------
+# [Color codes]
+
+# Background and Border:	#01b9ff,#ba78fe,#ea51bd (iwatch pink & blue gredient)
+# Color:	#01b9ff (android blue)
+# */
+
+.watch_index header, .watch_index .navbar-default.gredientrans,.watch_index header, .watch_index .navbar-default{
+	background:transparent;
+}
+.watch_index header, .watch_index .navbar-default.gredientColor{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#01b9ff+0,ba78fe+51,ea51bd+100 */
+	background: #01b9ff; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #01b9ff 0%, #ba78fe 51%, #ea51bd 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#01b9ff), color-stop(51%,#ba78fe), color-stop(100%,#ea51bd)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(-45deg, #01b9ff 0%,#ba78fe 51%,#ea51bd 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(-45deg, #01b9ff 0%,#ba78fe 51%,#ea51bd 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(-45deg, #01b9ff 0%,#ba78fe 51%,#ea51bd 100%); /* IE10+ */
+	background: linear-gradient(135deg, #01b9ff 0%,#ba78fe 51%,#ea51bd 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#01b9ff', endColorstr='#ea51bd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */}
+.bck_dark_blk{
+	background:#EA51BD;
+}
+.app_store_bck {
+    background-color: #a33984;
+}
+.app_store_bck:hover, .app_store_bck:focus, .app_store_bck:active{
+	background: url("../images/iphone_download_icon.png") no-repeat scroll 30px center transparent;
+    border-color: #fff;
+}
+.btn-default.bck_color_dark ,.get_api{
+  background: rgba(124,88,178,0.8);
+}
+hr.star-primary,.app_screen_mob_icon,.app_screen_mob_icon:hover,.app_screen_iwatch_icon:hover, .app_screen_iwatch_icon_active{border-color:#01b9ff;}
+.watch_index .iwatch_feature_content .iphone_ban1 h2{
+  color: #01b9ff;
+}
+.carousel-indicators .active{border:2px solid #EA51BD;}
+.app_screen_iwatch_icon:hover, .app_screen_iwatch_icon_active{ border-color: #01b9ff;color:#fff;}
+.app_screen_mob_icon{color:#fff;background-color: #01b9ff;}
+.app_screen_mob_icon_nonactive{background-color:transparent;background-image:url('../images/mobile1_hover_blue.png');}
+.app_screen_iwatch_icon{background-image:url('../images/watch_blue.png');}
+.app_screen_iwatch_icon:hover, .app_screen_iwatch_icon_active{background-image:url('../images/watch_white.png');background-color:#01b9ff;}
+.app_screen_mob_icon:hover{background-image:url('../images/mobile1.png');background-color:#01b9ff;}
+.horz_line_doulb_color {
+  position: relative;
+  display: inline-block;
+}
+.horz_line_doulb_color hr.star-primary {
+  border-color: #01b9ff;
+  width: 50px;
+  display: inline-block;
+}
+.span_half_pink {
+  background: #ea51bd;
+  display: inline-block;
+  height: 2px;
+  position: absolute;
+  width: 25px;
+  top: 25px;
+  right: 0px;
+}
+.form_send_btn, .form_send_btn:hover, .form_send_btn:focus, .form_send_btn:active{
+	border-color:#01b9ff;
+}
+.form_send_btn{
+	color: #01b9ff;
+}
+.form_send_btn:hover, .form_send_btn:focus, .form_send_btn:active{
+	background: none repeat scroll 0 0 #01b9ff;
+}
+.comma_icon_blk{  background: #01b9ff;}
+.profile_div img.userImg {
+  border-left-color: #01b9ff;
+  border-right-color: #EA51BD;
+  border-top-color: #01b9ff;
+  border-bottom-color: #EA51BD;
+}
+
+.profile_div img.userImg{border-color:#01b9ff;}
+.user_name{color:#01b9ff;}
